@@ -1,0 +1,26 @@
+{
+  "name": "taif-f",
+  "version": "1.0.0",
+  "description": "A log watching solution (similar to the tail -f command in UNIX)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PUSHPENDRAKUMAR18270/taif-f.git"
+  },
+  "author": "Pushpendra Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PUSHPENDRAKUMAR18270/taif-f/issues"
+  },
+  "homepage": "https://github.com/PUSHPENDRAKUMAR18270/taif-f#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "read-last-lines": "^1.8.0",
+    "socket.io": "^4.2.0"
+  }
+}

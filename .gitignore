@@ -1,3 +1,6 @@
+server/props.txt
+server/logs.txt
+
 # Logs
 logs
 *.log
